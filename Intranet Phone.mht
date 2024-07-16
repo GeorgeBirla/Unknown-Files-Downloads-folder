@@ -1,0 +1,4612 @@
+mime-version: 1.0
+x-document-type: Workbook
+content-type: multipart/related;
+	 boundary="----=_NextPart_01CA4B20.52C5C590"
+
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link rel=3DFile-List href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet001.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet002.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet003.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet004.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet005.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet006.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet007.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet008.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet009.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet010.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet011.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet012.htm">
+<link id=3D"shLink" href=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_fil=
+es/sheet013.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D13;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "ALCOB";
+ c_rgszSh[1] =3D "ALWAR";
+ c_rgszSh[2] =3D "BHANDARA";
+ c_rgszSh[3] =3D "Ennore";
+ c_rgszSh[4] =3D "HOSUR&nbsp;I";
+ c_rgszSh[5] =3D "HOSUR&nbsp;II";
+ c_rgszSh[6] =3D "UTK";
+ c_rgszSh[7] =3D "VVC";
+ c_rgszSh[8] =3D "MDC-Hosur";
+ c_rgszSh[9] =3D "MDC-Chennai";
+ c_rgszSh[10] =3D "AMBATTUR";
+ c_rgszSh[11] =3D "MKTG-NANDANAM";
+ c_rgszSh[12] =3D "REMOTE&nbsp;MKTG&nbsp;LOCATIONS";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[0].href+"\" name=3D\"frShe=
+et\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framesp=
+acing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 =
+scrolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 sc=
+rolling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]=
++";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-=
+height:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.re=
+turnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolo=
+r=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 c=
+ellspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.=
+fnFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmo=
+useout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent=
+.fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=
+=3D\"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll=
+(1);\"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent=
+.fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=
+=3D\"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll=
+(2);\"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.=
+fnFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmo=
+useout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgs=
+zClr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-=
+left:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"ev=
+ent.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bg=
+color=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellsp=
+acing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"=
+parent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+")=
+;\">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"fr=
+Sheet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></=
+td>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)=
+])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");=
+",5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>ALCOB</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet001.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>ALWAR</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet002.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>BHANDARA</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet003.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Ennore</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet004.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>HOSUR I</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet005.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>HOSUR II</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet006.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>UTK</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet007.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>VVC</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet008.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>MDC-Hosur</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet009.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>MDC-Chennai</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet010.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>AMBATTUR</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet011.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>MKTG-NANDANAM</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet012.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>REMOTE MKTG LOCATIONS</x:Name>
+    <x:WorksheetSource HRef=3D"IntranetPhoneDirectory_files/sheet013.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"IntranetPhoneDirectory_files/stylesheet.css"/>
+  <x:WindowHeight>10170</x:WindowHeight>
+  <x:WindowWidth>15480</x:WindowWidth>
+  <x:WindowTopX>360</x:WindowTopX>
+  <x:WindowTopY>15</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet001.h=
+tm" name=3D"frSheet">
+ <frame src=3D"file:///C:/506BCAB9/IntranetPhoneDirectory_files/tabstrip.h=
+tm" name=3D"frTabs" marginwidth=3D0 marginheight=3D0>
+ <noframes>
+  <body>
+   <p>This page uses frames, but your browser doesn't support them.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/stylesheet.css
+content-transfer-encoding: quoted-printable
+content-type: text/css;
+	 charset="us-ascii"
+
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.xl66
+	{mso-style-parent:style0;
+	color:windowtext;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl67
+	{mso-style-parent:style0;
+	color:#333300;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Tahoma, sans-serif;
+	mso-font-charset:0;}
+.xl68
+	{mso-style-parent:style0;
+	color:windowtext;
+	border:.5pt solid windowtext;}
+.xl69
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl70
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	border:.5pt solid windowtext;}
+.xl71
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl72
+	{mso-style-parent:style0;
+	color:windowtext;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl73
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl74
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;}
+.xl75
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:"Trebuchet MS", sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl76
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:"Trebuchet MS", sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl77
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:Tahoma, sans-serif;
+	mso-font-charset:0;}
+.xl78
+	{mso-style-parent:style0;
+	color:windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl79
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl80
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.xl81
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:"Trebuchet MS", sans-serif;
+	mso-font-charset:0;
+	text-align:center;}
+.xl82
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:"Trebuchet MS", sans-serif;
+	mso-font-charset:0;}
+.xl83
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:"Trebuchet MS", sans-serif;
+	mso-font-charset:0;
+	text-align:center;}
+.xl84
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:"Trebuchet MS", sans-serif;
+	mso-font-charset:0;}
+.xl85
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:"Trebuchet MS", sans-serif;
+	mso-font-charset:0;
+	text-align:left;}
+.xl86
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:"Trebuchet MS", sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border:.5pt solid windowtext;}
+.xl87
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:left;
+	border:.5pt solid windowtext;}
+.xl88
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl89
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl90
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl91
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl92
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl93
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl94
+	{mso-style-parent:style0;
+	border:.5pt solid windowtext;}
+.xl95
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	vertical-align:top;
+	border:.5pt solid windowtext;}
+.xl96
+	{mso-style-parent:style0;
+	color:windowtext;
+	vertical-align:top;
+	border:.5pt solid windowtext;}
+.xl97
+	{mso-style-parent:style0;
+	color:windowtext;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl98
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:left;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl99
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl100
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl101
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border:.5pt solid windowtext;}
+.xl102
+	{mso-style-parent:style0;
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl103
+	{mso-style-parent:style0;
+	text-align:center;}
+.xl104
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl105
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl106
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;}
+.xl107
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl108
+	{mso-style-parent:style0;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl109
+	{mso-style-parent:style0;
+	color:#333300;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Tahoma, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl110
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Tahoma, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl111
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl112
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+.xl113
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#FFC000;
+	mso-pattern:black none;}
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/tabstrip.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\tabstrip.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet001.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">ALCOB</font></a>&nbsp;</small></sma=
+ll></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet002.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">ALWAR</font></a>&nbsp;</small></sma=
+ll></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet003.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">BHANDARA</font></a>&nbsp;</small></=
+small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet004.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">Ennore</font></a>&nbsp;</small></sm=
+all></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet005.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">HOSUR I</font></a>&nbsp;</small></s=
+mall></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet006.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">HOSUR II</font></a>&nbsp;</small></=
+small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet007.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">UTK</font></a>&nbsp;</small></small=
+></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet008.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">VVC</font></a>&nbsp;</small></small=
+></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet009.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">MDC-Hosur</font></a>&nbsp;</small><=
+/small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet010.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">MDC-Chennai</font></a>&nbsp;</small=
+></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet011.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">AMBATTUR</font></a>&nbsp;</small></=
+small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet012.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">MKTG-NANDANAM</font></a>&nbsp;</sma=
+ll></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"file:///=
+C:/506BCAB9/IntranetPhoneDirectory_files/sheet013.htm" target=3D"frSheet">=
+<font face=3D"Arial" color=3D"#000000">REMOTE MKTG LOCATIONS</font></a>&nb=
+sp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet001.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet001.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D681 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:511pt'>
+ <col width=3D636 style=3D'mso-width-source:userset;mso-width-alt:23259;wi=
+dth:477pt'>
+ <col width=3D45 style=3D'mso-width-source:userset;mso-width-alt:1645;widt=
+h:34pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl71 width=3D681 style=3D'height:15.=
+0pt;width:511pt'>INTRANET
+  CONTACTS</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl111 style=3D'height:15.0pt'>9TH FL=
+OOR</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>MD'=
+S Office</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7580</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7581</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>WTD=
+'S Office</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7582</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl111 style=3D'height:15.0pt'>8TH FL=
+OOR</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>CFO=
+</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7550</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Raj=
+agopalan.K.S&nbsp;
+  (Dy.Manager&nbsp; CFO'S Office)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7551</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Ram=
+Kumar.K&nbsp;
+  ( DGM - Corporate Treasury )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7552</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Ram=
+a and
+  Sandhya S ( Dy. Manager - Finance )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7553</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Sat=
+ishKumar.P.K&nbsp;
+  ( Divisional Manager - Pricing &amp; Product Cost Engg.)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7554</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Sri=
+nivasan.R&nbsp;
+  ( GM - Finance - Corp )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7555</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Nee=
+lakantan.C&nbsp;
+  ( Divisional Manager - Corporate Finance )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7556</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Bal=
+aji.K.M (
+  AGM - Corporate Budgets &amp; Costing )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7557</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Sun=
+dara
+  Rajan.P.B&nbsp; ( Divisional Manager - Finance )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7558</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Ram=
+esh.R (
+  Asst. General Manager - Finac Services Group )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7559</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Cha=
+ndrasekar.T&nbsp;
+  ( AGM - Finance )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7560</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Dha=
+napal.T&nbsp;
+  ( Sr. Manager - Corporate Taxation )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7561</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl111 style=3D'height:15.0pt'>7TH Fl=
+oor</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Amr=
+olia.J.N (
+  ED - Construction &amp; Allied Businesses )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7520</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  West wing</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7521</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Sri=
+kant
+  Srinivasan<span style=3D'mso-spacerun:yes'>&nbsp; </span>( SD - HR )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7522</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Tho=
+mas.T.Abraham<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( Special Director &#8211; Corp=
+orate
+  Communications )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7523</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Ven=
+kataraman S
+  ( DGM - Legal )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7524</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Cha=
+ndrasekharan.A.R
+  ( ED &amp; Company Secretary )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7525</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Mur=
+alidharan.N<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( DGM - Corporate HR )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7527</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Usha
+  Soman<span style=3D'mso-spacerun:yes'>&nbsp; </span>( DGM - Management
+  Development )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7528</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  HR</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7529</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Office Services</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7530</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl111 style=3D'height:15.0pt'>6TH FL=
+OOR</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Moh=
+ana
+  Krishnan.N<span style=3D'mso-spacerun:yes'>&nbsp; </span>( ED - Internal=
+ Audit
+  )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7490</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Sri=
+nivasan.S.R<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( GM - Internal Audit )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7491</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Ram=
+adurai.S.G<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( Special Director &#8211; Prod.
+  Planning &amp; Portfolio Management )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7492</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Kar=
+thik.A (
+  Head - Program Management Office )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7493</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Ses=
+hadri.A (
+  DGM - Mission Summit )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7494</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Mission Summit</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7495</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Internal Audit</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7496</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Raj=
+inder
+  Malhan<span style=3D'mso-spacerun:yes'>&nbsp; </span>( ED - International
+  Operations )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7497</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Bad=
+hriNarayanan.R
+  ( Sr. Manager - Exports )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7498</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Lob=
+o Antony (
+  General Manager - Exports )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7499</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Sun=
+daresan.G<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( Asst. General Manager - Expor=
+ts )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7500</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Nal=
+iniSundar<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( Div. Manager - Exports )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7501</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl111 style=3D'height:15.0pt'>5TH FL=
+OOR</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>RAJ=
+IVE SAHARIA
+  - ED Mktg</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7460</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon
+  place-Gowri.S<span style=3D'mso-spacerun:yes'>&nbsp; </span>(Asst.Manage=
+r -
+  S&amp;M )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7461</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Ram=
+jiNarayanaswamy
+  ( GM - Product Management )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7462</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Marketing Services</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7463</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Reliability Group</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7464</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place
+  -HR Group</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7465</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Sales Strategy</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7466</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Invoicing (Mr.Ravi Group)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7467</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place-
+  Sales Admin Group</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7468</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Cha=
+ndrasekaran.N
+  ( SD - IT-ALIMS )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7469</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Ven=
+katesh
+  Natarajan<span style=3D'mso-spacerun:yes'>&nbsp; </span>( GM - IT )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7470</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place-
+  Systems</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7471</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Cor=
+porate -
+  Helpdesk</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7472</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Rao=
+.R.N ( SD -
+  Sales &amp; Marketing )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7473</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Lak=
+shmi
+  Narasimhan.K ( Secretary to ED - Marketing )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7474</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Jan=
+ani K.S. (
+  Sr. Officer<span style=3D'mso-spacerun:yes'>&nbsp; </span>- Marketing ) -
+  Common place - Product Management Group</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7475</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl111 style=3D'height:15.0pt'>4TH FL=
+OOR</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Bel=
+sare.C.G (
+  SD -<span style=3D'mso-spacerun:yes'>&nbsp; </span>Power Solutions Busin=
+ess )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7430</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Myt=
+hiliKumar<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( Sr. Officer - Engine Business=
+ )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7431</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Sun=
+dar.R<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( AGM - Sales - Engines )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7432</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Parts<span style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7433</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Vai=
+dyanathan.V<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( AGM &#8211; Appln Sales &amp;=
+ Head,
+  Service (Engines) )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7434</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Nai=
+r.P.G.R (
+  Sr. Manager - D &amp; S Vehicles )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7435</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Parts (Vijaya A ( Asst. Manager - Parts ))</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7436</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Com=
+mon place -
+  Sankaranarayanan.N ( Asst. Manager - Tech Service<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7437</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Siv=
+apalani N (
+  Manager - Network Planning &amp; Management)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7438</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 style=3D'height:15.0pt;border-top:none'>Fer=
+oze
+  Mohammed.H<span style=3D'mso-spacerun:yes'>&nbsp; </span>( Sr. Manager -=
+ Parts
+  )</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7439</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl111 style=3D'height:15.0pt'>3RD FL=
+OOR</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>ED=
+-Strategic
+  Sourcing</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7410</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Ra=
+vichandran.K
+  (DGM - Strategic Sourcing)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7411</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Ra=
+jendra
+  Kumar.K (DGM - Strategic Sourcing)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7412</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Na=
+rasimha Rao
+  KVL&nbsp;(DGM - Strategic Sourcing)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7413</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Pa=
+rthasarthy.P
+  (DGM - Str. Sourcing (Fully Built Solutions)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7414</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Ja=
+nardhanan.T.C&nbsp;(DGM
+  - MPS &amp; Imports)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7415</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Co=
+mmon place
+  - Strategic Sourcing<span style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7416</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Na=
+garaja
+  Rao.V (Divisional Manager - MPS, Imports &amp; Corp Logistics)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7417</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Sa=
+nkaran.M&nbsp;(Div.
+  Manager - MPS &amp; Imports)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7418</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>ED=
+ (Mfg)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7419</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>N
+  Murugappan(Plan Director)</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7420</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl111 style=3D'height:15.0pt'>2ND FL=
+OOR</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl101 style=3D'height:15.0pt;border-top:none'>Tr=
+aining Hall</td>
+  <td class=3Dxl100 style=3D'border-top:none;border-left:none'>7400</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D636 style=3D'width:477pt'></td>
+  <td width=3D45 style=3D'width:34pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet002.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet002.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D485 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:364pt'>
+ <col width=3D0 span=3D5 style=3D'display:none;mso-width-source:userset;ms=
+o-width-alt:
+ 2340'>
+ <col width=3D242 style=3D'mso-width-source:userset;mso-width-alt:8850;wid=
+th:182pt'>
+ <col width=3D208 style=3D'mso-width-source:userset;mso-width-alt:7606;wid=
+th:156pt'>
+ <col width=3D35 style=3D'mso-width-source:userset;mso-width-alt:1280;widt=
+h:26pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl65 width=3D0 style=3D'height:15.0pt'></td>
+  <td class=3Dxl65 width=3D0></td>
+  <td class=3Dxl65 width=3D0></td>
+  <td class=3Dxl65 width=3D0></td>
+  <td class=3Dxl65 width=3D0></td>
+  <td colspan=3D3 class=3Dxl110 width=3D485 style=3D'width:364pt'>ALWAR</t=
+d>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>A K C=
+hopra (GM
+  -Alwar)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>GM
+  office</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2801</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>V C D=
+wivedi (AGM
+  - Materials)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>Purchase
+  / GM office</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2802</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>Mahin=
+dra K Harit
+  (Div Manager)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>Finance
+  / GM office</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2803</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>T D k=
+anan (Div
+  Manager)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>PPC/Shop-2
+  office</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2807</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>Vinay=
+ Bhardwaj
+  (AGM )</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>Quality
+  control/ shop 2 office</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2808</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>Shail=
+esh sharma
+  (Manager)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>ALIMS
+  / Training centre</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2820</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>Ashok=
+ Kumar (AGM
+  - Production)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>Production
+  / Shop 1</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2821</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>GP Ag=
+rawal (Div
+  Manager)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>Production
+  services/ Shop 1</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2822</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>Rames=
+h yadav
+  (Div Manager)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>HR
+  / Shop 2</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2823</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>ED ro=
+om</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>GM
+  office</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2824</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>Kumar=
+ kant - RSO
+  incharge</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>RSO</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2825</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>Akhil=
+esh Kumar
+  (Sr. Manager)</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>Service
+  training/training centre</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2826</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>Seema=
+ Mathur
+  (Astt&nbsp; Manager )</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>Reception/GM
+  office</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2827</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 class=3Dxl65 style=3D'height:15.0pt;mso-igno=
+re:colspan'></td>
+  <td class=3Dxl72 width=3D242 style=3D'border-top:none;width:182pt'>HP he=
+lpdesk</td>
+  <td class=3Dxl72 width=3D208 style=3D'border-top:none;border-left:none;w=
+idth:156pt'>ALIMS
+  / Training centre</td>
+  <td class=3Dxl73 align=3Dright width=3D35 style=3D'border-top:none;borde=
+r-left:none;
+  width:26pt'>2828</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D0></td>
+  <td width=3D0></td>
+  <td width=3D0></td>
+  <td width=3D0></td>
+  <td width=3D0></td>
+  <td width=3D242 style=3D'width:182pt'></td>
+  <td width=3D208 style=3D'width:156pt'></td>
+  <td width=3D35 style=3D'width:26pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet003.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet003.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(2);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D694 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:521pt'>
+ <col width=3D221 style=3D'mso-width-source:userset;mso-width-alt:8082;wid=
+th:166pt'>
+ <col width=3D182 style=3D'mso-width-source:userset;mso-width-alt:6656;wid=
+th:137pt'>
+ <col width=3D35 style=3D'mso-width-source:userset;mso-width-alt:1280;widt=
+h:26pt'>
+ <col width=3D64 span=3D4 style=3D'width:48pt'>
+ <col width=3D221 style=3D'mso-width-source:userset;mso-width-alt:8082;wid=
+th:166pt'>
+ <col width=3D182 style=3D'mso-width-source:userset;mso-width-alt:6656;wid=
+th:137pt'>
+ <col width=3D35 style=3D'mso-width-source:userset;mso-width-alt:1280;widt=
+h:26pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D3 height=3D20 class=3Dxl109 width=3D438 style=3D'height:15=
+.0pt;
+  width:329pt'>INTRANET CONTACTS - BHANDARA</td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Mr.=
+ A K
+  Chatterjee- PD (Bhandara)</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>UNIT HEAD</t=
+d>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2901</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>&nb=
+sp;ED
+  OFFICE<span style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>ED OFFICE</t=
+d>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2902</td>
+  <td class=3Dxl67></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Com=
+mon<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>FINANCE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2905</td>
+  <td colspan=3D4 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Mr.=
+ M N Ladde
+  - AGM- (P&amp;A)</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>PERSONNEL &a=
+mp; ADMIN</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2906</td>
+  <td colspan=3D4 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Com=
+mon<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>MATREIAL PLA=
+NNING
+  &amp; PPC</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2907</td>
+  <td colspan=3D4 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Com=
+mon<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>PLANT ENGINE=
+ERING</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2908</td>
+  <td colspan=3D4 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Com=
+mon<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>PURCHASE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2909</td>
+  <td colspan=3D4 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Com=
+mon<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>PLANNING &am=
+p; QC</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2910</td>
+  <td colspan=3D4 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Mr.=
+ Sandeep -
+  Sr.Mgr (Systems)</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>SYSTEMS</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2920</td>
+  <td colspan=3D4 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>&nb=
+sp;Common</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>HP HELPDESK<=
+/td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2921</td>
+  <td colspan=3D4 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D6 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D6 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D6 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D221 style=3D'width:166pt'></td>
+  <td width=3D182 style=3D'width:137pt'></td>
+  <td width=3D35 style=3D'width:26pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet004.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet004.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(3);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D788 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:591pt'>
+ <col class=3Dxl103 width=3D39 style=3D'mso-width-source:userset;mso-width=
+-alt:1426;
+ width:29pt'>
+ <col width=3D266 style=3D'mso-width-source:userset;mso-width-alt:9728;wid=
+th:200pt'>
+ <col width=3D483 style=3D'mso-width-source:userset;mso-width-alt:17664;wi=
+dth:362pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl103 width=3D39 style=3D'height:15.0pt;width:29=
+pt'></td>
+  <td width=3D266 style=3D'width:200pt'></td>
+  <td width=3D483 style=3D'width:362pt'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl92 style=3D'height:15.0pt'>EXTN</td>
+  <td class=3Dxl92 style=3D'border-left:none'>Function</td>
+  <td class=3Dxl92 style=3D'border-left:none'>Location of Phone</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>120=
+2</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Purchase</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>HariKrishnan=
+.A.R (
+  Sr. Manager - Purchase (Alw/Bhd Hub) )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>120=
+5</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>FINANCE</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Sridharan.B.=
+M.L<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( Manager - Treasury )</td>
+ </tr>
+ <tr height=3D20 style=3D'mso-height-source:userset;height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>120=
+6</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>MATERIALS</t=
+d>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Rajaraman.N<=
+span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( DGM - Materials (Ennore))</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>121=
+1</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>GM-PERSONNEL=
+ &amp;
+  ADMIN</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>G Sasikaran<=
+/td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>121=
+2</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Systems - IT
+  Infrastructure</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Giridharan G=
+ ( Sr.
+  Manager - Systems - IT Infrastructure )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>121=
+6</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>HP HELP DESK=
+</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>common place=
+</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>121=
+7</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Systems - Ap=
+plication
+  develpoment</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Vaidyanathan=
+.S (
+  Divisional Manager - IT )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>121=
+8</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Systems - IT
+  Infrastructure</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Sivakumar.K =
+( Manager
+  - Systems - IT Infrastructure )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>121=
+9</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Network Admi=
+nistrator
+  ( Ennore )</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>common place=
+</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>122=
+0</td>
+  <td class=3Dxl97 width=3D266 style=3D'border-top:none;border-left:none;w=
+idth:200pt'>GM
+  -Application Development</td>
+  <td class=3Dxl97 width=3D483 style=3D'border-top:none;border-left:none;w=
+idth:362pt'>S
+  Chandrasekar<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>122=
+3</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Internal Aud=
+it</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Vijayaragava=
+n S (
+  Secretary to Executive Director - Internal Audit)</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>122=
+4</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>GM-Internal =
+Audit</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Srinivasan.S=
+.R<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( GM - Internal Audit )</td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl99 style=3D'height:30.0pt;border-top:none'>123=
+0</td>
+  <td class=3Dxl98 style=3D'border-top:none;border-left:none'>WAN Team (AL=
+IMS)</td>
+  <td class=3Dxl102 width=3D483 style=3D'border-top:none;border-left:none;=
+width:362pt'>Manikandan.K.M
+  (Dy.Manager-IT)/Saravanan.B (Dy.Manager-IT)/<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>Sathesh(WAN Enginee=
+r)</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>123=
+1</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>DGM - QE (En=
+nore)</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Sundararajan=
+.M.S (
+  DGM - QE (Ennore) )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>123=
+5</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>GM-PROJECT P=
+LANNING</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Mr A Rama Ra=
+o</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>123=
+6</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>CORPORATE QU=
+ALITY</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Common Place=
+ - East
+  land</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>123=
+8</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>PARTS WAREHO=
+USE</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>123=
+9</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>SALESYARD</t=
+d>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Salesyard In=
+ Charge</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>124=
+0</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>OFFICE SERVI=
+CES</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Mr Viswanath=
+an</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>124=
+1</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>RECEPTION</t=
+d>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'><span
+  style=3D'mso-spacerun:yes'>&nbsp;</span>Vimala/ Shiryl (Receptionest)</t=
+d>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>124=
+4</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Unit Plannin=
+g</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Jayavelan.R.=
+P<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( AGM -<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>Planning )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>124=
+5</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>FINANCE DEPT=
+</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Murugesan.R<=
+span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( Sr. Manager - Finance )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl95 style=3D'height:15.0pt;border-top:none'>124=
+7</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>ED-Project P=
+lanning
+  (PA)</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Srinivasan P=
+ ( Sr.
+  Officer - Project Planning )</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl76 style=3D'height:15.75pt;border-top:none'>12=
+63</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Systems - AL=
+IMS</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Sabesan.V ( =
+Asst.
+  Manager - Systems )</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl76 style=3D'height:15.75pt;border-top:none'>12=
+64</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Information =
+Security</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Pillai.N.S.N=
+ ( Head -
+  Risk Management &amp; Information Security )</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl76 style=3D'height:15.75pt;border-top:none'>12=
+65</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Purchase</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Anbarasu.P.S=
+ (
+  Manager - Matls. Planning )</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl76 style=3D'height:15.75pt;border-top:none'>12=
+66</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Internal Aud=
+it</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Gopalan.K<sp=
+an
+  style=3D'mso-spacerun:yes'>&nbsp; </span>( Divisional Manager - Internal=
+ Audit,
+  Ennore )</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl76 style=3D'height:15.75pt;border-top:none'>12=
+67</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Internal Aud=
+it</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Common Place=
+</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl104 style=3D'height:15.0pt;border-top:none'>12=
+69</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Systems - AL=
+IMS</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Velmurugan.V=
+ (
+  Divisional Manager - Systems )</td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl105 style=3D'height:30.0pt;border-top:none'>12=
+70</td>
+  <td class=3Dxl98 style=3D'border-top:none;border-left:none'>Systems - AL=
+IMS</td>
+  <td class=3Dxl102 width=3D483 style=3D'border-top:none;border-left:none;=
+width:362pt'>Shinoy
+  P ( Dy. Manager - IT)/ Sudhakar M ( Dy. Manager - IT)/Sreekanth.B ( Dy
+  Manager - Systems )/ Ramesh V.C. ( Asst. Manager - ALIMS )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl104 style=3D'height:15.0pt;border-top:none'>12=
+71</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Payroll - sy=
+stems -
+  ALIMS</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Kannan.P ( M=
+anager -
+  Systems) /Jayakumar.A.R ( Manager - Systems )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl104 style=3D'height:15.0pt;border-top:none'>12=
+75</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>HP CUSTOMER =
+CONNECT
+  HELPDESK</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Customer con=
+nect
+  Helpdesk</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl104 style=3D'height:15.0pt;border-top:none'>12=
+94</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Payroll - Fi=
+nance</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Ananthakrish=
+nan
+  .M<span style=3D'mso-spacerun:yes'>&nbsp; </span>( Divisional Manager - =
+Payroll
+  )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl104 style=3D'height:15.0pt;border-top:none'>12=
+95</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Payroll - Fi=
+nance</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Parthasarath=
+y.A.T (
+  Manager - Payroll )</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl104 style=3D'height:15.0pt;border-top:none'>12=
+97</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Systems -App=
+lication
+  development team</td>
+  <td class=3Dxl96 style=3D'border-top:none;border-left:none'>Sarada T ( D=
+y.
+  Manager)/ KNR(Manager-Systems) / Sundaram.S ( Manager)</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl106 style=3D'height:15.0pt'></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl103 style=3D'height:15.0pt'></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl103 style=3D'height:15.0pt'></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D39 style=3D'width:29pt'></td>
+  <td width=3D266 style=3D'width:200pt'></td>
+  <td width=3D483 style=3D'width:362pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet005.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet005.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(4);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D357 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:268pt'>
+ <col width=3D166 style=3D'mso-width-source:userset;mso-width-alt:6070;wid=
+th:125pt'>
+ <col width=3D156 style=3D'mso-width-source:userset;mso-width-alt:5705;wid=
+th:117pt'>
+ <col width=3D35 style=3D'mso-width-source:userset;mso-width-alt:1280;widt=
+h:26pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D3 height=3D20 class=3Dxl110 width=3D357 style=3D'height:15=
+.0pt;
+  width:268pt'>HOSUR PLANT-1</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>GM =
+- H1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>GM - CABIN</=
+td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2110</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PUR=
+CHASE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>SECY-DGM PUR=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2103</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>STO=
+RES /
+  GR&amp;D</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>SM-STORES &a=
+mp;
+  GR&amp;D</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2104</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>FIN=
+ANCE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DGM-FINANCE<=
+/td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2105</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PER=
+SONNEL</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DGM - P&amp;=
+A</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2106</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PRO=
+DUCTION
+  CONTROL</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DGM-VEHICLES=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2107</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>QUA=
+LITY
+  CONTROL</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DGM-QE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2108</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>ENG=
+INE R&amp;D</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+ (GF)</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2109</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>ED'=
+S CABIN</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>WORKS OFFICE=
+ 1'ST FLR</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2111</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>MAT=
+ERIAL
+  PLANNING</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>MPLNG</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2112</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PLA=
+NT
+  ENGINNERING</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DGM-PE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2113</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PRO=
+JECT
+  NEPTUNE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>GM-&nbsp; PR=
+OJECT
+  NEPTUNE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2114</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PC-=
+ENGINES</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DIV.MGR-ENGI=
+NE PC</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2115</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>SYS=
+TEMS</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2116</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>INT=
+ERNAL AUDIT</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DGM - IA</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2117</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>MAT=
+ERIAL
+  PLANNING</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2118</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PUR=
+CHASE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>BOF</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2119</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PUR=
+CHASE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>BOR</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2120</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PUR=
+CHASE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>TP&amp;P</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2121</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>&nb=
+sp;SYSTEMS</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DIVL MGR-SYS=
+TEMS</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2122</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>AGM=
+-FIN</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;AGM-FI=
+N</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2123</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>DIV=
+.MGR -
+  FINANCE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;DIV.MG=
+R -
+  FINANCE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2124</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>COS=
+TING &amp;
+  EXCISE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2125</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PAY=
+ABLE,FA, TO</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2126</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>TQM=
+ CELL</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2127</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>HDC=
+ - DATA
+  CENTRE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DBA - ROOM</=
+td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2128</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>CQE=
+</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2129</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>DGM=
+ - CQE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;DGM &#=
+8211; CQE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2130</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>DIV=
+L MGR - IR</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RAVICHANDRAN=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2131</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>DGM=
+ - PRODN</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RANGANATHAN =
+T R</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2132</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>A.G=
+.M - QE</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>M.TAMILMANI<=
+/td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2133</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>AGM=
+ -QTY VEH.</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RAVI R</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2134</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>ENG=
+INE
+  DESPATCH</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>SHOP 5</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2135</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>URD=
+C</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>SHOP 7</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2136</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>ENG=
+INE R&amp;D</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>MATERIAL PRO=
+C</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2137</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>ENG=
+INE R&amp;D</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>FIRST FLOOR<=
+/td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2138</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PEP=
+</td>
+  <td class=3Dxl74 style=3D'border-top:none;border-left:none'>FIRST FLOOR<=
+/td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2139</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>PEP=
+</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>G FLOOR</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2140</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>SAL=
+ES DESPATCH
+  - VEH.</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>VEHICLE DESP=
+ATCH OFF</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2141</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>SAL=
+ES DESPATCH
+  - ENG.</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>ENG. DEAPATC=
+H OFFICE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2142</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>VEH=
+ICLE - PC</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2143</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>ENG=
+INE - PC</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2144</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>MAI=
+NTENANCE-UL</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2145</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>SYS=
+TEMS-OFFICE(ANNEX)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2147</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>HP =
+HELP DESK</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>COMMON PLACE=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2147</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>EXP=
+ORT DEPT</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DY.MGR-EXPOR=
+TS</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2148</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>&nb=
+sp;MAINTENANCE-DL</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2149</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D166 style=3D'width:125pt'></td>
+  <td width=3D156 style=3D'width:117pt'></td>
+  <td width=3D35 style=3D'width:26pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet006.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet006.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(5);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D530 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:398pt'>
+ <col width=3D310 style=3D'mso-width-source:userset;mso-width-alt:11337;wi=
+dth:233pt'>
+ <col width=3D181 style=3D'mso-width-source:userset;mso-width-alt:6619;wid=
+th:136pt'>
+ <col width=3D39 style=3D'mso-width-source:userset;mso-width-alt:1426;widt=
+h:29pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D3 height=3D20 class=3Dxl92 width=3D530 style=3D'height:15.=
+0pt;width:398pt'>HOSUR
+  PLANT-2</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>P.H=
+arihar-GM&nbsp;
+  H-II</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>G M Office</=
+td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2201</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>C.V=
+ijayaraj(Divisional
+  Manager)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;Materi=
+als
+  Planning</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2202</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>S K
+  Bhattacharya(DGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Materials</t=
+d>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2203</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>K.V=
+.Natarajan
+  (AGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;GR&amp=
+;D,
+  Stores &amp; KDC</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2204</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>&nb=
+sp;P K
+  Ranganathan(DGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DGM - Finance
+  (Corporate)</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2205</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>M.S=
+hanavas
+  Khan (AGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Personnel &a=
+mp;
+  Administration</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2206</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>K.M=
+anikandan(AGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>CQE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2207</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Com=
+mon Place</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Quality Cont=
+rol</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2208</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>M.P=
+.SivaKumar(Divisional
+  Manager)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;CPPS</=
+td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2209</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>J.S=
+urendran(DGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DGM - Manufa=
+cturing</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2211</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>D.M=
+ohan
+  Babu(Sr. Officer - Exports)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Sales &amp; =
+Despatch
+  - Exports</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2219</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>P.K=
+.Selvaraj(Manager
+  - IT)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Systems</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2220</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>&nb=
+sp;K.Srinivasan(AGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;Prodn =
+Engg
+  &amp; Projects &amp; IED</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2221</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>L.V=
+iraraghavan
+  (AGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Plant Engine=
+ering</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2222</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Sri=
+hari.V(Dy.
+  Manager - IT)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Systems</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2223</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>&nb=
+sp;N V
+  Ramachandran (AGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Finance</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2224</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Com=
+mon place</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Internal Adu=
+it</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2225</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>A.S=
+amuelDavis(Divisional
+  Manager)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Purchase</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2226</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Com=
+mon place</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Purchase</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2227</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>&nb=
+sp;M.G.Nehru
+  (Divisional Manager)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Product Deve=
+lopment</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2228</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>C.C=
+aldwellLawrence
+  (Divisional Manager)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;Produc=
+tion</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2229</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>M.M=
+ Khan (AGM
+  )</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;Project
+  Planning</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2230</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Ved=
+ Parkash (
+  Head - Quality)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;Head -=
+ Quality</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2231</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>P.V=
+enkatesh
+  Babu (AGM)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PPC &amp; Ma=
+terial
+  Planning</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2232</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>P.C=
+.Rao (Sr.
+  Manager)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>&nbsp;TQM</t=
+d>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2233</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Com=
+mon Place</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>BOF / GR &am=
+p; D</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2234</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Com=
+mon Place</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Despatch</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2235</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Com=
+mon Place</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>SalesYard</t=
+d>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2236</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>R.S=
+ankaranarayanan
+  (CTM Mission Gemba - CPPS)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Purchase-CPP=
+S</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2237</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Hel=
+pdesk</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Common place=
+</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2238</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>Vil=
+as Mahadev
+  (Dy. Manager)</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Project Plan=
+ning</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>2239</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D310 style=3D'width:233pt'></td>
+  <td width=3D181 style=3D'width:136pt'></td>
+  <td width=3D39 style=3D'width:29pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet007.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet007.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(6);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D436 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:327pt'>
+ <col width=3D372 style=3D'mso-width-source:userset;mso-width-alt:13604;wi=
+dth:279pt'>
+ <col width=3D64 style=3D'width:48pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D2 height=3D20 class=3Dxl107 width=3D436 style=3D'height:15=
+.0pt;
+  width:327pt'>INTRANET CONTACTS - UTK</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl94 style=3D'height:15.0pt;border-top:none'>Bri=
+jesh Kumar
+  Gangwar ( Dy Manager - Material Planning )</td>
+  <td class=3Dxl94 align=3Dright style=3D'border-top:none;border-left:none=
+'>7600</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D372 style=3D'width:279pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet008.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet008.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(7);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D626 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:470pt'>
+ <col width=3D277 style=3D'mso-width-source:userset;mso-width-alt:10130;wi=
+dth:208pt'>
+ <col width=3D122 style=3D'mso-width-source:userset;mso-width-alt:4461;wid=
+th:92pt'>
+ <col width=3D35 style=3D'mso-width-source:userset;mso-width-alt:1280;widt=
+h:26pt'>
+ <col width=3D64 span=3D3 style=3D'width:48pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D3 height=3D20 class=3Dxl110 width=3D434 style=3D'height:15=
+.0pt;
+  width:326pt'>VVC</td>
+  <td class=3Dxl65 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl65 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl65 width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Nat=
+araj.M&nbsp;
+  ( Chief Programmes Mentor )</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>ENGINEER OFF=
+ICE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>1401</td>
+  <td colspan=3D3 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Gui=
+n.A.K.&nbsp;
+  ( DGM - Projects )</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Projects</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>1403</td>
+  <td colspan=3D3 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Sri=
+nivasan.S&nbsp;
+  ( Asst. General Manager - PD )</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>ADMIN</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>1404</td>
+  <td colspan=3D3 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>HEL=
+PDESK-AEG</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>VVC DATA CEN=
+TRE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>1406</td>
+  <td colspan=3D3 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>HEL=
+PDESK-VVC</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>ENGINEER OFF=
+ICE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>1407</td>
+  <td colspan=3D3 class=3Dxl65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 style=3D'height:15.0pt;border-top:none'>Mur=
+alidharan.S
+  ( Sr. Manager - Finance )</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>FINANCE</td>
+  <td class=3Dxl69 style=3D'border-top:none;border-left:none'>1408</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D277 style=3D'width:208pt'></td>
+  <td width=3D122 style=3D'width:92pt'></td>
+  <td width=3D35 style=3D'width:26pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet009.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet009.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(8);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D775 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:582pt'>
+ <col width=3D64 style=3D'width:48pt'>
+ <col width=3D74 style=3D'mso-width-source:userset;mso-width-alt:2706;widt=
+h:56pt'>
+ <col width=3D125 style=3D'mso-width-source:userset;mso-width-alt:4571;wid=
+th:94pt'>
+ <col width=3D64 span=3D8 style=3D'width:48pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl90 width=3D64 style=3D'height:15.0pt;width:48p=
+t'>EXTN</td>
+  <td class=3Dxl91 width=3D74 style=3D'width:56pt'>Function</td>
+  <td class=3Dxl91 width=3D125 style=3D'width:94pt'>Location of Phone</td>
+  <td class=3Dxl77 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl77 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl77 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl77 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl77 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl77 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl77 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl77 width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt'>5190</td>
+  <td class=3Dxl78>Reception<span style=3D'mso-spacerun:yes'>&nbsp;</span>=
+</td>
+  <td class=3Dxl78>Office Use</td>
+  <td colspan=3D8 class=3Dxl77 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl79 style=3D'height:15.0pt'>5191</td>
+  <td class=3Dxl66>Class Room</td>
+  <td class=3Dxl66>Longue</td>
+  <td colspan=3D8 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D74 style=3D'width:56pt'></td>
+  <td width=3D125 style=3D'width:94pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet010.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet010.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(9);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D506 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:380pt'>
+ <col width=3D64 span=3D2 style=3D'width:48pt'>
+ <col width=3D122 style=3D'mso-width-source:userset;mso-width-alt:4461;wid=
+th:92pt'>
+ <col width=3D64 span=3D4 style=3D'width:48pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl90 width=3D64 style=3D'height:15.0pt;width:48p=
+t'>EXTN</td>
+  <td class=3Dxl91 width=3D64 style=3D'width:48pt'>Function</td>
+  <td class=3Dxl91 width=3D122 style=3D'width:92pt'>Location of Phone</td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl80 width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl76 style=3D'height:15.75pt'>7336</td>
+  <td class=3Dxl75 style=3D'border-left:none'>MDC</td>
+  <td class=3Dxl86 style=3D'border-left:none'>MDC Chennai</td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 colspan=3D2 class=3Dxl83 style=3D'height:15.75pt;mso-ign=
+ore:colspan'></td>
+  <td class=3Dxl84></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 colspan=3D2 class=3Dxl83 style=3D'height:15.75pt;mso-ign=
+ore:colspan'></td>
+  <td class=3Dxl84></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl83 style=3D'height:15.75pt'></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl82></td>
+  <td class=3Dxl80></td>
+  <td></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 colspan=3D2 class=3Dxl83 style=3D'height:15.75pt;mso-ign=
+ore:colspan'></td>
+  <td class=3Dxl85></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'><=
+/td>
+  <td colspan=3D2 class=3Dxl80 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D122 style=3D'width:92pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet011.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet011.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(10);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D219 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:164pt'>
+ <col width=3D39 style=3D'mso-width-source:userset;mso-width-alt:1426;widt=
+h:29pt'>
+ <col width=3D61 style=3D'mso-width-source:userset;mso-width-alt:2230;widt=
+h:46pt'>
+ <col width=3D119 style=3D'mso-width-source:userset;mso-width-alt:4352;wid=
+th:89pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl92 width=3D39 style=3D'height:15.0pt;width:29p=
+t'>EXTN</td>
+  <td class=3Dxl93 width=3D61 style=3D'border-left:none;width:46pt'>Functi=
+on</td>
+  <td class=3Dxl93 width=3D119 style=3D'border-left:none;width:89pt'>Locat=
+ion of
+  Phone</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>733=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>Unit</td>
+  <td class=3Dxl87 style=3D'border-top:none;border-left:none'>Ambattur</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D39 style=3D'width:29pt'></td>
+  <td width=3D61 style=3D'width:46pt'></td>
+  <td width=3D119 style=3D'width:89pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet012.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet012.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(11);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D373 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:279pt'>
+ <col width=3D39 style=3D'mso-width-source:userset;mso-width-alt:1426;widt=
+h:29pt'>
+ <col width=3D151 style=3D'mso-width-source:userset;mso-width-alt:5522;wid=
+th:113pt'>
+ <col width=3D183 style=3D'mso-width-source:userset;mso-width-alt:6692;wid=
+th:137pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl88 width=3D39 style=3D'height:15.0pt;width:29p=
+t'>EXTN</td>
+  <td class=3Dxl89 width=3D151 style=3D'border-left:none;width:113pt'>Func=
+tion</td>
+  <td class=3Dxl89 width=3D183 style=3D'border-left:none;width:137pt'>Loca=
+tion of
+  Phone</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt'>1302</td>
+  <td class=3Dxl68 style=3D'border-left:none'>SYSTEMS</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Common Place</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>131=
+3</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>GM SYSTEMS<s=
+pan
+  style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Mr Venkatesh
+  Natarajan<span style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>131=
+4</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>MANAGER SYST=
+EMS</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>MR P RAMAMOO=
+RTHY</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>131=
+8</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>HEAD-ADV ENG=
+G</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Mr Aravind B=
+haradwaj</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>131=
+9</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>ADV ENGG DEP=
+T</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Common Place=
+</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>132=
+0</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>CHAIRMAN</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Mr.Shahaney.=
+R.J /
+  Secretary</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>132=
+2</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>EXPENSE ACCO=
+UNTING</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Mr Swaminath=
+an</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>134=
+5</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>SD-IT</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Mr N Chandra=
+sekharan</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl69 style=3D'height:15.0pt;border-top:none'>135=
+4</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>RO South</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Mr Elangovan=
+</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D39 style=3D'width:29pt'></td>
+  <td width=3D151 style=3D'width:113pt'></td>
+  <td width=3D183 style=3D'width:137pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/sheet013.htm
+content-transfer-encoding: quoted-printable
+content-type: text/html;
+	 charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link id=3DMain-File rel=3DMain-File href=3D"file:///C:/506BCAB9/IntranetP=
+honeDirectory.htm">
+<link rel=3DFile-List href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_fi=
+les/filelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\506BCAB9\IntranetPhoneDirectory_files\sheet013.ht=
+m"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dfile:///C:/506BCAB9/IntranetPhoneDirectory_f=
+iles/stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(12);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../IntranetPhoneDirectory.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D197 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:148pt'>
+ <col width=3D39 style=3D'mso-width-source:userset;mso-width-alt:1426;widt=
+h:29pt'>
+ <col width=3D36 style=3D'mso-width-source:userset;mso-width-alt:1316;widt=
+h:27pt'>
+ <col width=3D122 style=3D'mso-width-source:userset;mso-width-alt:4461;wid=
+th:92pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D3 height=3D20 class=3Dxl112 width=3D197 style=3D'height:15=
+.0pt;
+  width:148pt'>Regional Sales Office</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>510=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Ahmedabad</t=
+d>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>510=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Bangalore</t=
+d>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>511=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Calcutta</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>511=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Delhi</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>512=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Ernakulam</t=
+d>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>513=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Faridabad</t=
+d>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>513=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Guwahati</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>514=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Goa</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>514=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Indore</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>515=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Janla</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>515=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Kanpur<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;</span></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>516=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Ludhiana</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>516=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Pune</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>517=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Raipur</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>517=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Vijayawada</=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>518=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>RSO</td>
+  <td class=3Dxl87 style=3D'border-top:none;border-left:none'>Chembrambakk=
+am</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D3 height=3D20 class=3Dxl113 style=3D'height:15.0pt'>Area O=
+ffice</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>610=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Ahmedabad</t=
+d>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>610=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Bangalore</t=
+d>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>611=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Chandigarh</=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>611=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Cochin</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>612=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Cuttack</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>612=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Guwahati</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>613=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Indore</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>613=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Jaipur</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>614=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Lucknow</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>614=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Madurai</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>615=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Patna</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>615=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Secunderabad=
+</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>616=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Pune</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>616=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Jamshedpur</=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>617=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>AO</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Goa</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D3 height=3D20 class=3Dxl113 style=3D'height:15.0pt'>Parts =
+Warehouse</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>710=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Hosur</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>712=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Delhi</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>712=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Dhanbad</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>713=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Jaipur</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>714=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Kolkata</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>715=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Nagpur</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>716=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Secunderabad=
+</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>717=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Chrompet</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>718=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Puzhal</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>718=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>PWH</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Chennai</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td colspan=3D3 height=3D20 class=3Dxl113 style=3D'height:15.0pt'>Traini=
+ng Centre</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>730=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>STC</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Namakkal</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>730=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>STC</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Calcutta</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>731=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>STC</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'><span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>731=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>STC</td>
+  <td class=3Dxl87 style=3D'border-top:none;border-left:none'>Guindy</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>732=
+1</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DTC</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Nasik</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt;border-top:none'>732=
+6</td>
+  <td class=3Dxl71 style=3D'border-top:none;border-left:none'>DTC</td>
+  <td class=3Dxl68 style=3D'border-top:none;border-left:none'>Burari</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D39 style=3D'width:29pt'></td>
+  <td width=3D36 style=3D'width:27pt'></td>
+  <td width=3D122 style=3D'width:92pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01CA4B20.52C5C590
+mime-version: 1.0
+content-location: file:///C:/506BCAB9/IntranetPhoneDirectory_files/filelist.xml
+content-transfer-encoding: quoted-printable
+content-type: text/xml;
+	 charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../IntranetPhoneDirectory.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"sheet002.htm"/>
+ <o:File HRef=3D"sheet003.htm"/>
+ <o:File HRef=3D"sheet004.htm"/>
+ <o:File HRef=3D"sheet005.htm"/>
+ <o:File HRef=3D"sheet006.htm"/>
+ <o:File HRef=3D"sheet007.htm"/>
+ <o:File HRef=3D"sheet008.htm"/>
+ <o:File HRef=3D"sheet009.htm"/>
+ <o:File HRef=3D"sheet010.htm"/>
+ <o:File HRef=3D"sheet011.htm"/>
+ <o:File HRef=3D"sheet012.htm"/>
+ <o:File HRef=3D"sheet013.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01CA4B20.52C5C590--
